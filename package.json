@@ -2,7 +2,7 @@
   "name": "irc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AKB-dev.github.io",
+  "homepage": "https://akb-dev.github.io/fakeCord-client",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
